@@ -1,0 +1,35 @@
+{
+  "name": "npm-janitor",
+  "version": "0.0.0",
+  "description": "Validate package.json for all the user modules",
+  "license": "MIT",
+  "repository": "hemanth/node-npm-janitor",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "h3manth.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "async": "^1.4.2",
+    "es6-promisify": "^3.0.0",
+    "lie-denodify": "^0.3.0",
+    "npm-stats": "^1.1.0",
+    "package-json": "^1.2.0",
+    "package-json-validator": "^0.6.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
