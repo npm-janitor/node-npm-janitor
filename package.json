@@ -1,6 +1,6 @@
 {
   "name": "npm-janitor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validate package.json for all the user modules",
   "license": "MIT",
   "repository": "hemanth/node-npm-janitor",
