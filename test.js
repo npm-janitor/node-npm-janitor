@@ -1,6 +1,6 @@
 'use strict';
-var assert = require('assert');
-var npmJanitor = require('./');
+const assert = require('assert');
+const npmJanitor = require('./');
 
 it('should return an array of json validator data. ', function (done) {
     this.timeout(15000);
