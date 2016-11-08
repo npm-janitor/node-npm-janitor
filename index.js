@@ -16,6 +16,7 @@ module.exports = (username, cb) => {
                 callback(null, {
                     module,
                     homepage: json.homepage,
+                    description: json.description,
                     info : PJV.validate(JSON.stringify(json), "npm", {warnings: true, recommendations: true})
                 });
             })
