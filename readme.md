@@ -1,4 +1,4 @@
-# npm-janitor [![Build Status](https://travis-ci.org/hemanth/node-npm-janitor.svg?branch=master)](https://travis-ci.org/hemanth/node-npm-janitor)
+# npm-janitor [![Build Status](https://travis-ci.org/npm-janitor/node-npm-janitor.svg?branch=master)](https://travis-ci.org/npm-janitor/node-npm-janitor)
 
 > Validates `package.json` for all the user modules.
 
